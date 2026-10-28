@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://flowauth.net/v1/ui/Restaurant-Tycoon-3.lua"))()
+loadstring(game:HttpGet("https://flowauth.net/v1/loaders/5e72852f9dae85bea5f7452550b26e3a.lua"))()
